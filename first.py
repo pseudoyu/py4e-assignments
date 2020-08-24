@@ -1,0 +1,1 @@
+print("I'm Learning Python on Coursera platform and I'd like to work with all of you.")

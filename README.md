@@ -1,2 +1,2 @@
-# py4e_assignments
+# Python for Everybody Assignments
 Python for Everybody Specialization on Coursera Platform
